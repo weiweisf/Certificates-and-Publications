@@ -26,3 +26,8 @@ Physica A: Statistical Mechanics and its Applications, Volume 506, 2018, Pages 2
 - *Distance-based Congestion Pricing Considering Environmental Costs in a Network with Elastic Demand*     
 Haoming Yang, **Wei Wei**, Dongqin Zhou, Qixiu Cheng*, Zhiyuan Liu;      
 Transportation Research Conference, Beijing, China, 2017 . 
+
+
+# Blogs      
+- [How to Use Jupyter Notebook on AWS](https://medium.com/@weiwei.charlotte/how-to-use-jupyter-notebook-on-aws-941d9e84c6a0)    
+- [Use Google Translation API in the Product (on GCP)](https://medium.com/@weiwei.charlotte/use-google-translation-api-in-the-product-on-gcp-d52d4620908e)
